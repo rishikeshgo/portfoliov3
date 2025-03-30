@@ -1,35 +1,23 @@
 {
-    "name": "portfolio_v2",
-    "short_name": "portfolio_v2",
-    "start_url": ".",
+    "name": "Rishikesh Govind's Portfolio",
+    "short_name": "Portfolio",
+    "start_url": "/",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#F7F7F7",
+    "theme_color": "#48A6A7",
+    "description": "A showcase of my projects and skills as a Flutter and Web Developer.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
-            "sizes": "192x192",
-            "type": "image/png"
+            "src": "assets/img/favicon.ico",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/x-icon"
         },
         {
-            "src": "icons/Icon-512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-maskable-192.png",
-            "sizes": "192x192",
+            "src": "assets/img/og_image.png",
             "type": "image/png",
-            "purpose": "maskable"
-        },
-        {
-            "src": "icons/Icon-maskable-512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "maskable"
+            "sizes": "192x192"
         }
     ]
 }
